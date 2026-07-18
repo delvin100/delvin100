@@ -1,16 +1,230 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**delvin100/delvin100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Delvin Varghese
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Learner;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Full Stack Developer • Secure Software Development • Open Source Enthusiast
+
+<p align="center">
+
+<a href="https://github.com/delvin100">
+<img src="https://img.shields.io/github/followers/delvin100?logo=github&style=for-the-badge&color=3B82F6"/>
+</a>
+
+<a href="https://github.com/delvin100">
+<img src="https://komarev.com/ghpvc/?username=delvin100&style=for-the-badge&color=3B82F6"/>
+</a>
+
+<a href="https://github.com/delvin100?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/delvin100">
+<img src="https://img.shields.io/github/stars/delvin100?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **Integrated Master of Computer Applications (MCA)**
+
+📍 **Chunkappara, Pathanamthitta, Kerala, India**
+
+💻 Passionate about designing scalable, secure and modern web applications.
+
+🔐 Currently exploring **Cybersecurity, Secure Software Development, Cloud Computing & DevOps.**
+
+🌱 Continuously learning new technologies while building real-world full-stack applications.
+
+💡 I enjoy writing clean, maintainable and efficient code.
+
+---
+
+# 🌐 Portfolio
+
+### 🔗 https://delvinvarghese.vercel.app
+
+---
+
+# 📫 Contact
+
+📧 **delvin2862005@gmail.com**
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/delvin100">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://linkedin.com/in/delvinvarghese">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://delvinvarghese.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+
+---
+
+## ☁️ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+## 🚀 Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=delvin100&show_icons=true&include_all_commits=true&theme=dark"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=delvin100&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=delvin100&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=delvin100&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/delvin100/delvin100/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+# 🚀 Current Focus
+
+- 🌱 Learning **Cybersecurity** & **Secure Software Development**
+- 🚀 Building scalable **Full Stack Applications**
+- ☁️ Exploring **Cloud Technologies & DevOps**
+- 📚 Improving **Data Structures & Algorithms**
+- 🤝 Contributing to **Open Source**
+- ⚡ Building projects using **Next.js**, **Node.js**, **Java**, and **Modern Web Technologies**
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Full Stack Development
+- ✅ Learn Advanced Backend Architecture
+- ✅ Explore Cloud Computing (AWS)
+- ✅ Build Production-Ready Applications
+- ✅ Contribute to Open Source
+- ✅ Strengthen Cybersecurity Skills
+
+---
+
+# 💭 Developer Philosophy
+
+> **"Great software isn't just about writing code—it's about solving real problems with clean, secure, and scalable solutions."**
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+<br>
+
+</div>
