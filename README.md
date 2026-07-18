@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Learner;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-### 🚀 Full Stack Developer • Secure Software Development • Open Source Enthusiast
+### 🚀 Full-Stack Developer | React • Node.js • React Native | Cybersecurity Enthusiast
 
 <p align="center">
 
@@ -36,13 +36,15 @@
 
 📍 **Chunkappara, Pathanamthitta, Kerala, India**
 
-💻 Passionate about designing scalable, secure and modern web applications.
+💻 Passionate **Full-Stack Web** with experience in building scalable and secure applications using modern technologies.
 
-🔐 Currently exploring **Cybersecurity, Secure Software Development, Cloud Computing & DevOps.**
+🚀 Skilled in **React, Node.js, Express.js, MySQL, React Native, Expo, and Firebase**, developing end-to-end solutions from backend APIs to cross-platform mobile applications.
 
-🌱 Continuously learning new technologies while building real-world full-stack applications.
+🔐 Currently deepening my knowledge in **Cybersecurity, Secure Software Development, Cloud Computing, and DevOps**.
 
-💡 I enjoy writing clean, maintainable and efficient code.
+🌱 I enjoy solving real-world problems, learning emerging technologies, and continuously improving my software engineering skills.
+
+💡 Dedicated to writing clean, maintainable, and efficient code while delivering intuitive user experiences.
 
 ---
 
@@ -84,10 +86,12 @@
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
 <img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=typescript"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
 
 </p>
 
@@ -99,6 +103,7 @@
 
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=vite"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
@@ -130,24 +135,38 @@
 
 ---
 
-## ☁️ DevOps & Tools
+## 📱 Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=expo"/>
 
 </p>
 
 ---
 
-## 🚀 Deployment
+## ☁️ Cloud & Services
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=firebase"/>
 <img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=gitlab"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
 
 </p>
 
