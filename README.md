@@ -178,8 +178,6 @@
 
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=delvin100&show_icons=true&include_all_commits=true&theme=dark"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=delvin100&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
